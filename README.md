@@ -1,7 +1,5 @@
 # :volcano: Santorini-FWI
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kmch/Santorini-FWI/HEAD)
-
 `Jupyter` notebooks with the workflow of the *full-waveform inversion* of the seismic data collected in the PROTEUS experiment around the Santorini volcano, *Christiana-Santorini-Kolumbo* volcanic field.
 
 A part of the repository serves as supplementary materials for the PhD thesis *High-resolution imaging beneath Santorini volcano* by Kajetan Chrapkiewicz.
