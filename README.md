@@ -2,7 +2,7 @@
 
 `Jupyter` notebooks with the workflow of the *full-waveform inversion* of the seismic data collected in the PROTEUS experiment around the Santorini volcano, *Christiana-Santorini-Kolumbo* volcanic field.
 
-A part of the repository serves as supplementary materials for the PhD thesis *High-resolution imaging beneath Santorini volcano* by Kajetan Chrapkiewicz.
+A part of the repository serves as supplementary materials for the PhD thesis *High-resolution imaging beneath the Santorini volcano* by Kajetan Chrapkiewicz.
 
 ## How to use it
 The notebooks present the entire FWI workflow which can be followed to analyse other datasets. The Python code is fully runnable after setting up the required packages listed below, all to be found at https://github.com/kmch/.
